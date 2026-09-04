@@ -4,6 +4,7 @@
  *
  * It can be invoked with 'func invoke'dsd
  * It can be tested with 'npm test's
+ * s
  *
  * @param {Context} context - A context object.
  * @param {object} context.query - The query string deserialized as an object, if any.
