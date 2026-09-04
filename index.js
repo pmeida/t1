@@ -2,7 +2,7 @@
  * Your HTTP handling function, invoked with each request. This is an example
  * function that returns "OK" for all requests.
  *
- * It can be invoked with 'func invoke'
+ * It can be invoked with 'func invoke'dsd
  * It can be tested with 'npm test'
  *
  * @param {Context} context - A context object.
