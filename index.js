@@ -12,7 +12,7 @@
  * @param {string} context.method - The HTTP request method.
  * @param {string} context.httpVersion - The HTTP protocol version.
  * @param {object} body - The request body if any.
- * @returns {object} HTTP response object.
+ * @returns {object} HTTP response object.e 
  *
  * See: https://github.com/knative/func/blob/main/docs/function-developers/nodejs.md#the-context-object
  */
